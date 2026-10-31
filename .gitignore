@@ -1,0 +1,22 @@
+# Downloaded datasets
+data/
+*.zip
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
