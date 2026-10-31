@@ -54,6 +54,10 @@ The Diffusion Model section installs its additional libraries in the notebook.
 
 ## Results
 
-Add screenshots and a short description of your observations in `results/`.
-Describe what your own outputs show, including visible detail, blur, distortion,
-variety, and prompt alignment.
+Activity A: Image reconstruction 
+<img width="844" height="355" alt="image" src="https://github.com/user-attachments/assets/97cebfb6-b56f-43ba-90c9-c3eaebd7ed5e" />
+
+Activity B: Image generation 
+<img width="844" height="117" alt="image" src="https://github.com/user-attachments/assets/015a7be1-5144-4525-bc60-e851411ab885" />
+<img width="297" height="270" alt="image" src="https://github.com/user-attachments/assets/d5cc5eaf-2f65-4a79-8bec-3197887f69fe" />
+
