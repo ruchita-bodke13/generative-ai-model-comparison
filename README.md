@@ -57,13 +57,3 @@ The Diffusion Model section installs its additional libraries in the notebook.
 Add screenshots and a short description of your observations in `results/`.
 Describe what your own outputs show, including visible detail, blur, distortion,
 variety, and prompt alignment.
-
-## AI usage and verification
-
-Document the AI tools and prompts actually used. Verify explanations with
-course materials and reliable documentation, then check that your analysis
-matches your experiment outputs.
-
-## Contributors
-
-- [Your name] — [Your actual contribution]
