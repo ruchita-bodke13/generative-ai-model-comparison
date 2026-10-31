@@ -17,9 +17,9 @@ applications.
 
 ## Repository contents
 
-- `notebooks/generative_ai_comparison.ipynb` — Colab notebook with the
+- `Assg_2_Study_of_GenAI_Models.ipynb` — Colab notebook with the
   experiments and code.
-- `report/assignment_report.md` — comparative study, output analysis, and
+- `GenAI_Assignment_02_Report.pdf` — comparative study, output analysis, and
   reflection.
 - `results/` — screenshots of the original, reconstructed, and generated
   images.
